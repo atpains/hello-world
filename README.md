@@ -1,2 +1,8 @@
 # hello-world
-just one repository
+
+Hi man!
+
+I love freedom.
+
+
+
